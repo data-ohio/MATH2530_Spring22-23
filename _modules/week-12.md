@@ -4,7 +4,6 @@ weekNumber: 12
 days:
 - date: 2023-04-10
   events:
-    ? '**Test**{: .label .label-disc } through Chapter 3'
 - date: 2023-04-11
   events:
     ? '**Lab**{: .label .label-lab } '
