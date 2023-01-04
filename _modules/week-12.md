@@ -9,9 +9,8 @@ days:
     ? '**Lab**{: .label .label-lab } '
 - date: 2023-04-12
   events:
-    ? '[4.3. Unsupervised Learning](https://data-ohio.github.io/introductory-data-science/4/3/4_3_unsupervised.html)'
-    ? ''
 - date: 2023-04-14
   events:
     ? '**Homework**{: .label .label-hw } '
+    ? '[4.3. Unsupervised Learning](https://data-ohio.github.io/introductory-data-science/4/3/4_3_unsupervised.html)'
 ---
