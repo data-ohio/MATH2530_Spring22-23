@@ -39,10 +39,10 @@ Attendance
 : Attendance counts for a small part of your grade. Your attendance record will be available in Blackboard.
 
 Homework
-: There is a homework assignment due in most weeks. Late homework is penalized 5% per day (or part thereof) late.
+: There is a homework assignment due each week. Late homework is penalized 5% per day (or part thereof) late.
 
 Labs
-: Except in weeks in which there are tests, the Tuesday lab meeting will be used for (computer) laboratory assigmnents, to be completed during that time. 
+: Except in weeks in which there are tests, the Tuesday lab meeting will be used for (computer) laboratory assignments, to be completed during that time. 
 If you do not attend the lab meeting, then your lab assignment will be counted as 1 day late, even if it is turned in on time.
 Late lab assignments are penalized 5% per day (or part thereof) late.
 
