@@ -7,11 +7,13 @@ days:
     ? ' '
 - date: 2023-01-31
   events:
-    ? '**Lab**{: .label .label-lab } '
+    ? '**Lab**{: .label .label-lab } [Lab 3: More on Tables](https://jupyterhub.academic.kube.ohio.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-ohio%2FMATH2530_Spring22-23&urlpath=lab%2Ftree%2FMATH2530_Spring22-23%2Flab%2Flab03%2Flab03.ipynb&branch=main)'
 - date: 2023-02-01
   events:
     ? '[1.4. Cleaning data](https://data-ohio.github.io/introductory-data-science/1/4/1_4_clean_data.html)'
+    ? '[1.4.1. More Python](https://data-ohio.github.io/introductory-data-science/1/4/more_python.html)'
 - date: 2023-02-03
   events:
-    ? '**Homework**{: .label .label-hw } '
+    ? '**Homework**{: .label .label-hw } [Homework 3: Table Manipulation](https://jupyterhub.academic.kube.ohio.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-ohio%2FMATH2530_Spring22-23&urlpath=lab%2Ftree%2FMATH2530_Spring22-23%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main)'
+    ? '[1.4.2. Introduction to Pandas](https://data-ohio.github.io/introductory-data-science/1/4/intro_pandas.html)'
 ---
