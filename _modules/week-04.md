@@ -13,8 +13,6 @@ days:
 - date: 2023-02-10
   events:
     ? '**Homework**{: .label .label-hw } [Homework 4: Wrangling the Vote](https://jupyterhub.academic.kube.ohio.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-ohio%2FMATH2530_Spring22-23&urlpath=lab%2Ftree%2FMATH2530_Spring22-23%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main)'
-    ? '[Chapter 2. Enhanced data visualization](https://data-ohio.github.io/introductory-data-science/2/2_visualization.html)'
-    ? '[2.1. Traditional Plots](https://data-ohio.github.io/introductory-data-science/2/1/2_1_traditional_plots.html)'
 ---
 
 
