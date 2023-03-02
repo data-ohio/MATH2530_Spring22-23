@@ -4,14 +4,14 @@ weekNumber: 9
 days:
 - date: 2023-03-20
   events:
+    ? '[3.3. Simulation-Based Estimation and Prediction](https://data-ohio.github.io/introductory-data-science/3/3/3_3_simulation.html)'
 - date: 2023-03-21
   events:
-    ? '**Lab**{: .label .label-lab } '
+    ? '**Lab**{: .label .label-lab } 9, chapter 3'
 - date: 2023-03-22
   events:
-    ? '[3.3. Simulation-Based Estimation and Prediction](https://data-ohio.github.io/introductory-data-science/3/3/3_3_simulation.html)'
 - date: 2023-03-24
   events:
-    ? '**Homework**{: .label .label-hw } '
+    ? '**Homework**{: .label .label-hw } 9, chapter 3'
 ---
 

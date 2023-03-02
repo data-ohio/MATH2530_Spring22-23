@@ -14,5 +14,5 @@ days:
     ? ' '
 - date: 2023-04-28
   events:
-    ? '**Homework**{: .label .label-hw } '
+    ? '**Homework**{: .label .label-hw } 14, chapter 5'
 ---
