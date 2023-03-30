@@ -12,5 +12,5 @@ days:
     ? ''
 - date: 2023-04-07
   events:
-    ? '**Homework**{: .label .label-hw } 11, chapter 4'
+    ? '**Homework**{: .label .label-hw } [Homework 11: Classification](https://jupyterhub.academic.kube.ohio.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-ohio%2FMATH2530_Spring22-23&urlpath=lab%2Ftree%2FMATH2530_Spring22-23%2Fhw%2Fhw11%2Fhw11.ipynb&branch=main)'
 ---
