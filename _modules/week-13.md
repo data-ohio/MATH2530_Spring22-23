@@ -7,7 +7,7 @@ days:
     ? '[4.3. Unsupervised Learning](https://data-ohio.github.io/introductory-data-science/4/3/4_3_unsupervised.html)'
 - date: 2023-04-18
   events:
-    ? '**Lab**{: .label .label-lab } 13, chapter 4'
+    ? '**Lab**{: .label .label-lab } [Lab 13: k-Means Clustering](https://jupyterhub.academic.kube.ohio.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-ohio%2FMATH2530_Spring22-23&urlpath=lab%2Ftree%2FMATH2530_Spring22-23%2Flab%2Flab13%2Flab13.ipynb&branch=main)'
 - date: 2023-04-19
   events:
     ? '[Chapter 5. Data ethics](https://data-ohio.github.io/introductory-data-science/5/5_ethics.html)'
@@ -15,5 +15,5 @@ days:
     ? '[5.2. Unfair Discrimination and Social Bias](https://data-ohio.github.io/introductory-data-science/5/2/5_2_discrimination.html)'
 - date: 2023-04-21
   events:
-    ? '**Homework**{: .label .label-hw } 13, chapter 5'
+    ? '**Homework**{: .label .label-hw } [Homework 13: Data Ethics: Laws and Discrimination](https://jupyterhub.academic.kube.ohio.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-ohio%2FMATH2530_Spring22-23&urlpath=lab%2Ftree%2FMATH2530_Spring22-23%2Fhw%2Fhw13%2Fhw13.ipynb&branch=main)'
 ---
